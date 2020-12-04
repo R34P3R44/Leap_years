@@ -1,0 +1,13 @@
+## What it is:
+
+# This program checks user_entry for leap years. It gunna be either true or false.
+
+# user_input => method => output: true or false
+
+# Examples:
+_______________________________________________
+
+# user_input: 1900 -> method -> output: false
+# user_input: 1800 -> method -> output: false
+# user_input: 2004 -> method -> output: true
+# user_input: 2009 -> method -> output: false
